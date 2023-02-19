@@ -6,7 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Executing Task-4";
-  cout << "Process Automated";
+  cout << "Executing Task-4\n";
+  cout << "Process Automated\n";
   return 0;
 }
